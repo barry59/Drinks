@@ -5,16 +5,6 @@ A recipe app that allows users to customize the recipes of three different types
 
 ## Visuals  
 [Click here to view on youtube](https://youtu.be/RLIhgW-FvH0)  
-**Sign Up Page and Login Page**   
-<img src = "img/signup.gif" width=300>
-<img src = "img/login.gif" width=300>      
-
-**DIY Page(three drink options) and History Page**  
-<img src = "img/customization.gif" width=300>
-<img src = "img/history.gif" width=300>   
-
-**Account Page**  
-<img src = "img/account.gif" width=300>
  
 ## Packages:
 `cupertino_icons`^1.0.2: provides a set of ios style icons and buttons.   
